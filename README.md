@@ -2,7 +2,8 @@
 
 Responsive landing page made on course workshop.
 
-## Tech
+## Technologies
 
-*HTML
-*CSS & SCSS
+- HTML 
+- CSS
+- SCSS
