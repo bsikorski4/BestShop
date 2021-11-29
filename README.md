@@ -1,9 +1,8 @@
 # BestShop
 
-Responsive landing page 
+Responsive landing page made on course workshop.
 
 ## Tech
 
-HTML
-CSS
-SCSS
+*HTML
+*CSS & SCSS
