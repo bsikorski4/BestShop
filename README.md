@@ -1,8 +1,8 @@
 # BestShop
 
-## Responsive landing page 
+Responsive landing page 
 
-### Tech
+## Tech
 
 HTML
 CSS
